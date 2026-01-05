@@ -1,3 +1,4 @@
+//Rock Paper Scissors Game in C++
 #include<iostream>
 #include<ctime> //not in curriculum but needed for random number generation
 #include<cstdlib>
