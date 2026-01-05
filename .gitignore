@@ -1,0 +1,19 @@
+# Compiled Executables
+*.exe
+*.out
+*.app
+
+# Object Files
+*.o
+*.obj
+
+# IDE Folders (Visual Studio, VS Code, etc.)
+.vscode/
+.vs/
+out/
+build/
+bin/
+
+# Temporary files
+*.log
+*.tmp
